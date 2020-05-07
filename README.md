@@ -5,3 +5,16 @@ A fancy API health monitor
 
 ![lychee](./lychee.png)
 
+
+## Feature
+
+- monitor API
+- monitor orchestration
+- monitor dashboard
+- alert
+
+## Task
+
+- [ ] sned request by user config
+- [ ] assert response
+- [ ] beautify home page
