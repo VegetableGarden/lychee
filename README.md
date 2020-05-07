@@ -18,3 +18,7 @@ A fancy API health monitor
 - [ ] sned request by user config
 - [ ] assert response
 - [ ] beautify home page
+
+## Run this project
+
+- node index.js
